@@ -5,7 +5,7 @@
 [![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://contatof4brcio@gmail.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=f4brcio&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=f4brcio&show_icons=true&theme=night)
 
 ## Tecnologias que utilizo diariamente!
 
