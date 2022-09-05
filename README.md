@@ -1,4 +1,4 @@
-## Olá eu sou o Fabricio Figueiredo!  👨🏽‍💻
+## Olá eu sou o Fabricio Souza!
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCaX8cFwjUoBv4TudEuTlG5g)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/f4brcio/)
@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=f4brcio&show_icons=true&theme=tokyonight)
 
-## Essas são as tecnologias que utilizo diariamente!
+## Tecnologias que utilizo diariamente!
 
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
